@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1719337286 source:c:\users\casa\desktop\utn\1re cuatrimestre\programacion 1\tpi\tpi\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<locale.h>
+	<vector>
+	<ctime>
+	"funciones.h"
+
+1719336980 c:\users\casa\desktop\utn\1re cuatrimestre\programacion 1\tpi\tpi\funciones.h
+	<vector>
+	<string>
+	<iostream>
+
+1719337439 source:c:\users\casa\desktop\utn\1re cuatrimestre\programacion 1\tpi\tpi\funciones.cpp
+	<iostream>
+	<string>
+	<limits>
+	<locale.h>
+	<cstdlib>
+	<vector>
+	<ctime>
+	"funciones.h"
+
